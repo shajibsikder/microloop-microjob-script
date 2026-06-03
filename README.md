@@ -22,7 +22,6 @@ This project was developed by **Md Shajib Sikder**.
 ## User System
 
 Users can work in two roles:
-
 - Job Poster (Employer)
 - Job Worker (Task Completer)
 
